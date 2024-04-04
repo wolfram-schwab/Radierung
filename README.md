@@ -1,2 +1,2 @@
 # radierung
-Anleitungen, Berichte, ...
+Anleitungen, Berichte, Beispiele
